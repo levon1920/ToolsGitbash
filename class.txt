@@ -1,2 +1,5 @@
-i am learning git bash this sem 
+i am learning git bash this sem.
+
+alrck .
+ 
 
